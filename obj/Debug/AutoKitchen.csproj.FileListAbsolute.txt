@@ -1,0 +1,34 @@
+C:\Users\Insan\OneDrive\Documents\Uni Work\Diss\BodyBasics-WPF\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+C:\Users\Insan\OneDrive\Documents\Uni Work\Diss\BodyBasics-WPF\bin\AnyCPU\Debug\BodyBasics-WPF.exe
+C:\Users\Insan\OneDrive\Documents\Uni Work\Diss\BodyBasics-WPF\bin\AnyCPU\Debug\BodyBasics-WPF.pdb
+C:\Users\Insan\OneDrive\Documents\Uni Work\Diss\BodyBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\Insan\OneDrive\Documents\Uni Work\Diss\BodyBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\Insan\OneDrive\Documents\Uni Work\Diss\BodyBasics-WPF\obj\Debug\AutoKitchen.csprojAssemblyReference.cache
+C:\Users\Insan\OneDrive\Documents\Uni Work\Diss\BodyBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\Insan\OneDrive\Documents\Uni Work\Diss\BodyBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Insan\OneDrive\Documents\Uni Work\Diss\BodyBasics-WPF\obj\Debug\App.g.cs
+C:\Users\Insan\OneDrive\Documents\Uni Work\Diss\BodyBasics-WPF\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+C:\Users\Insan\OneDrive\Documents\Uni Work\Diss\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.g.resources
+C:\Users\Insan\OneDrive\Documents\Uni Work\Diss\BodyBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+C:\Users\Insan\OneDrive\Documents\Uni Work\Diss\BodyBasics-WPF\obj\Debug\AutoKitchen.csproj.GenerateResource.cache
+C:\Users\Insan\OneDrive\Documents\Uni Work\Diss\BodyBasics-WPF\obj\Debug\AutoKitchen.csproj.CoreCompileInputs.cache
+C:\Users\Insan\OneDrive\Documents\Uni Work\Diss\BodyBasics-WPF\obj\Debug\AutoKitchen.csproj.CopyComplete
+C:\Users\Insan\OneDrive\Documents\Uni Work\Diss\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.exe
+C:\Users\Insan\OneDrive\Documents\Uni Work\Diss\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.pdb
+C:\Users\Insan\Documents\AutoKitchen\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+C:\Users\Insan\Documents\AutoKitchen\bin\AnyCPU\Debug\BodyBasics-WPF.exe
+C:\Users\Insan\Documents\AutoKitchen\bin\AnyCPU\Debug\BodyBasics-WPF.pdb
+C:\Users\Insan\Documents\AutoKitchen\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\Insan\Documents\AutoKitchen\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\Insan\Documents\AutoKitchen\obj\Debug\AutoKitchen.csprojAssemblyReference.cache
+C:\Users\Insan\Documents\AutoKitchen\obj\Debug\MainWindow.baml
+C:\Users\Insan\Documents\AutoKitchen\obj\Debug\MainWindow.g.cs
+C:\Users\Insan\Documents\AutoKitchen\obj\Debug\App.g.cs
+C:\Users\Insan\Documents\AutoKitchen\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+C:\Users\Insan\Documents\AutoKitchen\obj\Debug\BodyBasics-WPF.g.resources
+C:\Users\Insan\Documents\AutoKitchen\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+C:\Users\Insan\Documents\AutoKitchen\obj\Debug\AutoKitchen.csproj.GenerateResource.cache
+C:\Users\Insan\Documents\AutoKitchen\obj\Debug\AutoKitchen.csproj.CoreCompileInputs.cache
+C:\Users\Insan\Documents\AutoKitchen\obj\Debug\AutoKitchen.csproj.CopyComplete
+C:\Users\Insan\Documents\AutoKitchen\obj\Debug\BodyBasics-WPF.exe
+C:\Users\Insan\Documents\AutoKitchen\obj\Debug\BodyBasics-WPF.pdb
